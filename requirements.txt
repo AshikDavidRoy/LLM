@@ -1,0 +1,11 @@
+langchain
+langchain-together
+openai
+chromadb
+tiktoken
+unstructured
+langchain-community
+langchainhub
+langchain-openai
+chromadb
+bs4
