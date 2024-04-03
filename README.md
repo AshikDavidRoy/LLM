@@ -1,8 +1,15 @@
 # LLM
 
-Simple python script code to use LLM on your own data.
+Simple Python script code to use LLM on your data.
 
 ## Installation
+
+Install [Python Virtual Environments](https://docs.python.org/3/tutorial/venv.html#introduction) and other Packages
+
+```
+python3 -m venv .venv
+```
+`.venv` is the name of the folder in which `venv` is installed/saved
 
 Install [Langchain](https://github.com/hwchase17/langchain) and other required packages.
 ```
