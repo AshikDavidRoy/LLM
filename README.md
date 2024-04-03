@@ -1,4 +1,4 @@
-# LLM
+# LLM: Large Language Model
 
 Simple Python script code to use LLM on your data.
 
