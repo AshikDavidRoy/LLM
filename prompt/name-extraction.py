@@ -111,5 +111,5 @@ def extract_prompt_data(prompt: str):
     print(data)
     return data
 
-p="Locate Emma Garcia, Jacob Martinez, and Ava Thompson"
-extract_prompt_data(p)
+prompt="Locate Emma Garcia, Jacob Martinez, and Ava Thompson"
+extract_prompt_data(prompt)
