@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from os import environ
 
 load_dotenv()
-together_api_key ="5d0252b0d81297e52de455304330a01d2f935d1e273e9a12a8d2c7dd2c72080e"
+together_api_key ="_API_KEY_HERE"
 #together_api_key = environ["TOGETHER_API_KEY"]
 
 schema = Object(
