@@ -7,18 +7,18 @@ Simple Python script code to use LLM on your data.
 Install [Python Virtual Environments](https://docs.python.org/3/tutorial/venv.html#introduction) and other Packages
 
 ```
-python3 -m venv .venv
+python3 -m venv env
 ```
 `.venv` is the name of the folder in which `venv` is installed/saved
 
 Activate your Virtual Environments(venv) :
 ```
-venv\Scripts\activate.ps1
+env\Scripts\activate.ps1
 ```
 if that does not work then use :
 
 ```
-venv\Scripts\activate.bat
+env\Scripts\activate.bat
 ```
 
 Install [Langchain](https://github.com/hwchase17/langchain) and other required packages.
