@@ -9,3 +9,4 @@ langchainhub
 langchain-openai
 chromadb
 bs4
+supervision
