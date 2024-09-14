@@ -28,6 +28,7 @@ pip install -r requirements.txt
 
 Modify `constants.py.default` to use your own [OpenAI API key](https://platform.openai.com/account/api-keys) or any other, and rename it to `constants.py`. Here I have used [together.ai](https://api.together.xyz/models) 
 
-
-wget https://developer.download.nvidia.com/compute/cuda/12.4.1/local_installers/cuda_12.4.1_550.54.15_linux.run
+```
+wget https://developer.download.nvidia.com/compute/cuda/12.4.1/local_installers/cuda_12.4.1_550.54.15_linux.run 
 sudo sh cuda_12.4.1_550.54.15_linux.run
+```
